@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Tokyo Night",
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#000000",
+        "editorGroupHeader.tabsBackground": "#000000",
+        
+    }
+}
